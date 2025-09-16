@@ -8,9 +8,9 @@ public class Main {
 
         SistemaOperacional windows = new SistemaOperacional(maquina);
 
-        Programa p1 = new Programa(8, 100, 2, 10000); 
-        Programa p2 = new Programa(4, 600, 2, 5000);    
-        Programa p3 = new Programa(32, 200, 4, 20000);  
+        Programa p1 = new Programa(12, 300, 2, 30000); 
+        Programa p2 = new Programa(8, 600, 2, 6000);    
+        Programa p3 = new Programa(32, 800, 4, 10000);  
 
         
         System.out.println("Tentando executar Programa 1:");
